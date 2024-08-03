@@ -1,4 +1,4 @@
-# CodeClause_Customer_Segmentation
+# Customer_Segmentation
 
 Problem Statement:- 
 In this project I designed a system for a customer segmentation of a dataset for a shopping mall.
